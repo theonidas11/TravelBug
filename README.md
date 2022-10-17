@@ -17,6 +17,11 @@ Check out [FRONTEND LIVE DEMO](https://travel-bug-frontend.theodarlington.repl.c
 
 Check out [API LIVE DEMO](https://travel-bug-backend.theodarlington.repl.co/) here!!
 
+## ScreeShot
+
+<img width="1379" alt="Screenshot 2022-10-17 at 9 34 01 AM" src="https://user-images.githubusercontent.com/107377018/196087146-418c3e41-23b3-4092-b6c2-c0e8b64bf7d8.png">
+
+
 ## Tech used
 
 ```
