@@ -13,9 +13,9 @@ you can easily navigate your visit to USA!
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://travel-bug-techis-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://travel-bug-frontend.theodarlington.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://travel-bug-techis-backend.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://travel-bug-backend.theodarlington.repl.co/) here!!
 
 ## Tech used
 
@@ -29,7 +29,7 @@ Check out [API LIVE DEMO](https://travel-bug-techis-backend.herokuapp.com/) here
 1. Git Clone
 
 ```
-git clone https://github.com/Travel-Bug-Techis2022/Travel-Bug-GD.git
+git clone https://github.com/theonidas11/TravelBug.git
 ```
 
 2. Backend setting
